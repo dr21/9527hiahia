@@ -2,7 +2,7 @@
 
 ### 1 <img src="../images/github/github_index_newRepository.png"/>
 
-### 2 <img src="../images/github/github_index_newRepository.png"/>
+### 2 <img src="../images/github/github_index_createNewRepository.png"/>
 
 ## git
 
@@ -21,9 +21,9 @@ copy(-----BEGIN OPENSSH PRIVATE KEY-----
 
 ## github
 
-### 3 <img src="../images/github/github_index_newRepository.png"/>
+### 3 <img src="../images/github/github_index_setting.png"/>
 
-### 3 <img src="../images/github/github_index_newRepository.png"/>
+### 4 <img src="../images/github/github_addSSHkey.png"/>
 
 
 ## git
